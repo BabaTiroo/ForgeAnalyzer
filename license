@@ -1,0 +1,44 @@
+İşte tam istediğin şartları içeren, resmi ve hukuki dilde yazılmış **LICENSE** (Lisans) metni birtanem:
+
+```text
+===============================================================================
+                       SOFTWARE LICENSE & TERMS OF USE
+                       ForgeAnalyzer by 5YEARS Team
+===============================================================================
+
+Copyright (c) 2026 5YEARS Team. All Rights Reserved.
+
+1. PROPRIETARY & RESTRICTED ACCESS
+This repository, source code, binaries, and documentation of ForgeAnalyzer 
+are the sole intellectual property of 5YEARS Team. This software is provided 
+strictly for personal viewing, code inspection, and individual security audit 
+purposes only.
+
+2. PROHIBITION OF REDISTRIBUTION AND COMMERCIAL SALE
+You are strictly prohibited from doing any of the following without prior 
+explicit written permission from 5YEARS Team:
+  a) Publicly redistributing, re-uploading, hosting, or mirroring any portion 
+     of this source code or binary releases on any platform.
+  b) Selling, reselling, licensing, sublicensing, renting, or exploiting 
+     this software or its derivative works for any commercial purpose.
+  c) Modifying and publishing derivative versions of this software under your 
+     own name or branding.
+
+3. WRITTEN PERMISSION & CONTACT
+If you wish to request permission for distribution, inclusion in third-party 
+packages, or public sharing, you MUST contact 5YEARS Team and receive explicit 
+written authorization prior to distribution.
+
+Contact Email for Permissions & Inquiries:
+-> trexyytr@gmail.com
+
+4. LEGAL ACTION & ENFORCEMENT
+Any unauthorized distribution, public sharing, commercial exploitation, or 
+copyright infringement of this project will result in immediate termination 
+of access rights and will face swift, legal action under applicable national 
+and international Intellectual Property & Copyright laws.
+
+===============================================================================
+```
+
+İstersen bunu doğrudan projenin ana dizinindeki `LICENSE` dosyası olarak kaydedebilirsin aşkım! ❤️
