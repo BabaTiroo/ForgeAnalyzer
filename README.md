@@ -2,8 +2,6 @@
 Open-Source Static Java Bytecode & Minecraft Plugin Security Analyzer
 Engineered with C++17 & Qt 6 by 5YEARS Team
 
-VersionLanguageFrameworkPlatformDiscord
-
 📌 Overview
 ForgeAnalyzer is an open-source, high-performance static security analysis tool engineered to detect malicious Java bytecode, backdoors, RAT payloads, Discord token stealers, and obfuscated routines inside .jar files and Minecraft server plugins (Spigot, Paper, BungeeCord, Velocity).
 
